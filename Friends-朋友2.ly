@@ -223,7 +223,7 @@
 ~   \applyOutput #'Voice #note-one c'4 \bar "|." } }
 % === END JIANPU STAFF ===
 
-\new Lyrics = "IX" { \lyricsto "jianpu" { \override LyricText #'self-alignment-X = #LEFT 這 些 年  一 個 人  風 也 過  雨 也 走  有 過 淚  有 過 錯  還 記 得 堅 持 什 麼  真  愛  過  才  會  懂  會  寂  寞  會  回  首  終  有  夢  終  有  你  在  心  中 } } 
+\new Lyrics = "IX" { \lyricsto "jianpu" { \override LyricText #'self-alignment-X = #LEFT 這 些 年 一 個 人 風 也 過 雨 也 走 有 過 淚 有 過 錯 還 記 得 堅 持 什 麼 真 愛 過 才 會 懂 會 寂 寞 會 回 首 終 有 夢 終 有 你 在 心 中 } } 
 >>
 \layout{} }
 \score {
