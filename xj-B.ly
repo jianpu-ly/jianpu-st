@@ -53,7 +53,7 @@
 
     \override Staff.TimeSignature #'style = #'numbered
     \override Staff.Stem #'transparent = ##t
-     \tempo 4=86 \mark \markup{1=D} \time 4/4 #(define (note-five grob grob-origin context)
+     \tempo 4=56 \mark \markup{1=D} \time 4/4 #(define (note-five grob grob-origin context)
   (if (and (eq? (ly:context-property context 'chordChanges) #t)
       (or (grob::has-interface grob 'note-head-interface)
         (grob::has-interface grob 'rest-interface)))
@@ -489,7 +489,7 @@ arranger="词:王远亮 曲:郭坦"
 << 
 
 % === BEGIN MIDI STAFF ===
-    \new Staff { \new Voice="midi" { \tempo 4=86 \transpose c d { \key c \major  \time 4/4 g8. a16 b16 a16 g8 a2 \repeat volta 2 { | %{ bar 2: %} a16 \mp c'8 a16 e'8 e'8 d'8 e'4. | %{ bar 3: %} d'16 d'8 d'16 d'8 ( e'8 ) c'8 ( a4. ) | %{ bar 4: %} a2 \mf g2 | %{ bar 5: %} g2 a2 | %{ bar 6: %} e'8. \mf g'16 g'8 e'8 c'8. d'16 d'4 | %{ bar 7: %} e'8. \> e'16 c'8 ( a8 ) g2 \! } \alternative { { | %{ bar 8: %} c'8. \mf c'16 c'8 c'8 g8. g16 g8 a8 | %{ bar 9: %} b8 \> ( b4 ) g8 a2 \! } { | %{ bar 10: %} c'8. \mf c'16 c'8 c'8 d'8. d'16 d'8 d'8 | %{ bar 11: %} g'4. \< e'8 e'2 \! }} \repeat volta 2 { | %{ bar 12: %} a'4. \f ( a'16 g'16 ) a'8 \grace { a'16 } c''4. | %{ bar 13: %} g'16 g'8 a'16 c''16 d''16 b'8 \grace { b'16 } a'2 | %{ bar 14: %} a'4. ( a'16 g'16 ) \grace { g'16 } a'8 d'4. | %{ bar 15: %} a16 c'8 a16 d'16 e'16 g'16 a'16 \grace { g'16 } e'2 | %{ bar 16: %} a16 \mf c'8 a16 e'16. e'32 e'16 d'16 c'16. c'32 a16 c'16 g4 | %{ bar 17: %} c'16 d'8 c'16 e'16. e'32 e'16 e'16 g16 g16 g8 a4 } \alternative { { | %{ bar 18: %} c'8. c'16 e'4 c'2 } { | %{ bar 19: %} g4. \f a8 d'4. e'8 | %{ bar 20: %} c'4  ~ \< ( c'2. | %{ bar 21: %} c'4 ) \! r2. }} } } }
+    \new Staff { \new Voice="midi" { \tempo 4=56 \transpose c d { \key c \major  \time 4/4 g8. a16 b16 a16 g8 a2 \repeat volta 2 { | %{ bar 2: %} a16 \mp c'8 a16 e'8 e'8 d'8 e'4. | %{ bar 3: %} d'16 d'8 d'16 d'8 ( e'8 ) c'8 ( a4. ) | %{ bar 4: %} a2 \mf g2 | %{ bar 5: %} g2 a2 | %{ bar 6: %} e'8. \mf g'16 g'8 e'8 c'8. d'16 d'4 | %{ bar 7: %} e'8. \> e'16 c'8 ( a8 ) g2 \! } \alternative { { | %{ bar 8: %} c'8. \mf c'16 c'8 c'8 g8. g16 g8 a8 | %{ bar 9: %} b8 \> ( b4 ) g8 a2 \! } { | %{ bar 10: %} c'8. \mf c'16 c'8 c'8 d'8. d'16 d'8 d'8 | %{ bar 11: %} g'4. \< e'8 e'2 \! }} \repeat volta 2 { | %{ bar 12: %} a'4. \f ( a'16 g'16 ) a'8 \grace { a'16 } c''4. | %{ bar 13: %} g'16 g'8 a'16 c''16 d''16 b'8 \grace { b'16 } a'2 | %{ bar 14: %} a'4. ( a'16 g'16 ) \grace { g'16 } a'8 d'4. | %{ bar 15: %} a16 c'8 a16 d'16 e'16 g'16 a'16 \grace { g'16 } e'2 | %{ bar 16: %} a16 \mf c'8 a16 e'16. e'32 e'16 d'16 c'16. c'32 a16 c'16 g4 | %{ bar 17: %} c'16 d'8 c'16 e'16. e'32 e'16 e'16 g16 g16 g8 a4 } \alternative { { | %{ bar 18: %} c'8. c'16 e'4 c'2 } { | %{ bar 19: %} g4. \f a8 d'4. e'8 | %{ bar 20: %} c'4  ~ \< ( c'2. | %{ bar 21: %} c'4 ) \! r2. }} } } }
 % === END MIDI STAFF ===
 
 >>
