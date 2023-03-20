@@ -1,3 +1,14 @@
+
+instrument=Soprano
 2/4
+WithStaff
+
 q2'. ( s3' ) s1' ( s6 q5 )
 s6  q1' s6 s3'. d3' s3' s2' s1'. d1' q6 5
+
+NextPart instrument=Alto
+2/4
+WithStaff
+
+q2'. ( s3' ) s1' ( s6 q5 )
+s1  q2' s1 s3'. d3' s3' s5' s5. d5 q5 6
