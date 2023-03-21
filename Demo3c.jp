@@ -1,0 +1,6 @@
+instrument=Bass
+1, 2, 3, 4,
+LP: \mark \markup "Change to Soprano" \set Staff.shortInstrumentName = "S"
+:LP
+1' 2' 3' 4'
+L: low low low low high high high high

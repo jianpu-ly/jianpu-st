@@ -1,0 +1,6 @@
+instrument=T.B
+1, 2, 3, 4,
+LP: \mark \markup "Change voice" \set Staff.shortInstrumentName = "S.A"
+:LP
+1' 2' 3' 4'
+L: mlow low mlow low whigh high whigh high
