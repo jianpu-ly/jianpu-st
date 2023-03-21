@@ -1,6 +1,26 @@
-instrument=T.B
+instrument=1
+LP: \mark \markup "T.B"
+:LP
 1, 2, 3, 4,
-LP: \mark \markup "Change voice" \set Staff.shortInstrumentName = "S.A"
+LP: \mark \markup "S.A"
 :LP
 1' 2' 3' 4'
 L: mlow low mlow low whigh high whigh high
+
+NextPart instrument=2
+LP: \mark \markup "S"
+:LP
+1, - 3, -
+LP: \mark \markup "T"
+:LP
+1 - 3 -
+
+NextPart instrument=3
+LP: \mark \markup "A"
+:LP
+1 - 3 -
+LP: \mark \markup "B"
+:LP
+1, - 3, -
+
+
