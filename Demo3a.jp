@@ -1,0 +1,19 @@
+instrument=Soprano
+1 2 3 4 1 2 3 4 1 2 3 4
+L: lah lah di dah lah lah di dah lah lah di dah
+NextPart instrument=Alto
+5, 6, 7, 1 5, 6, 7, 1 5, 6, 7, 1
+L: dum dum di dum \repeat unfold 4 { \skip 1 } dum dum di dum
+NextPart instrument=Tenor
+3, 4, 5, 6, 3, 4, 5, 6, 3, 4, 5, 6,
+L: \repeat unfold 4 { \skip 1 } pom pom pom pom
+
+instrument=Soprano
+1 2 3 4 1 2 3 4 1 2 3 4
+L: lah lah di dah lah lah di dah lah lah di dah
+NextPart instrument=Alto
+5, 6, 7, 1 5, 6, 7, 1 5, 6, 7, 1
+L: dum dum di dum \repeat unfold 4 { \skip 1 } dum dum di dum
+NextPart instrument=Tenor
+3, 4, 5, 6, 3, 4, 5, 6, 3, 4, 5, 6,
+L: \repeat unfold 4 { \skip 1 } pom pom pom pom
