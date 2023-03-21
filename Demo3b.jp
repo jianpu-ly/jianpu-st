@@ -2,6 +2,7 @@ instrument=1
 1, ^"T.B." 2, 3, 4,
 1' ^"S.A" 2' 3' 4'
 L: mlow low mlow low whigh high whigh high
+L: lah lah di dah lah lah di dah
 
 NextPart instrument=2
 1, ^"S" - 3, -
