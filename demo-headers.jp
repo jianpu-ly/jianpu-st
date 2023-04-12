@@ -1,0 +1,20 @@
+KeepLength
+
+title=上学歌
+subtitle=Subtitle
+subsubtitle=Subsubtitle
+instrument=Instrument
+poet=Poet词:XXX
+composer=Composer曲:YYY
+meter=Meter
+arranger=Arranger
+tagline=Tagline
+copyright=CopyRight
+piece=Piece
+opus=Opus
+
+1=Eb
+2/4
+
+q1 2 3 1  |  c5 -  |  q6 6 1' 6  |  c5 -
+q6 6 c1'  |  q5 6 c3  |  q6 5 3 5  |  3 1 2 3  |  c1 -
