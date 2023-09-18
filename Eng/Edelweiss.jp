@@ -1,3 +1,5 @@
+NoBarNums
+
 title=Edelweiss
 composer=词： Oscar hammerstein II 曲： Richard Rodgers
 arranger=制谱： 旭日辉
@@ -8,14 +10,14 @@ arranger=制谱： 旭日辉
 % http://trillian.mit.edu/~jc/music/abc/song/Edelweiss_C.abc
 % http://trillian.mit.edu/~jc/music/abc/song/Edelweiss_C_w.abc
 
-| c3 - c5  | c2' - -  | c1' - c5  | c4 - -
-| c3 - c3  | c3 c4 c5 | c6  - -   | c5 - -  \break
-| c3 - c5  | c2' - -  | c1' - c5  | c4 - -
-| c3 - c5  | c5 c6 c7  | c1' - -  | c1' - -  \break
-| c2' c5  c5  | c7 c6 c5  | c3 - c5  | c1' - -
-| c6 - c1'  | c2' - c1'  | c7 - -  | c5 - -  \break
-| c3 - c5  | c2' - -  | c1' - c5  | c4 - -
-| c3 - c5  | c5 c6 c7  c1' - -  | c1' - -  |
+| c3 ^"C" - c5 | c2' ^"G7" - - | c1' ^"C" - c5 | c4 ^"F" - -
+| c3 ^"C" - c3 | c3 c4 c5 | c6 ^"Dm" - - | c5 ^"G7" - - \break
+| c3 ^"C" - c5 | c2' ^"G7" - - | c1' ^"C" - c5 | c4 ^"F" - -
+| c3 ^"C" - c5 | c5 ^"G7" c6 c7 | c1' ^"C" - - | c1' - -  \break
+| c2' ^"G7" c5  c5  | c7 c6 c5  | c3 ^"C" - c5  | c1' - -
+| c6 ^"F" - c1'  | c2' ^"D" - c1'  | c7 ^"G" - -  | c5 - -  \break
+| c3 ^"C" - c5 | c2' ^"G7" - - | c1' ^"C" - c5 | c4 ^"F" - -
+| c3 ^"C" - c5  | c5 ^"G7" c6 c7  c1' ^"C" - -  | c1' - -  |
 
 L: E- del- weiss, e- del- weiss E- very mor- ning you greet me. Small and white, clean and bright, You look ha- ppy to meet me. Blo- ssom of snow, may you bloom and grow. Bloom and grow for- ev- er. E- del- weiss, e- del- weiss Bless my home- land for- ev- er
 
