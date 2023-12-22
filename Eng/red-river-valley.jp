@@ -2,10 +2,16 @@ title=Red River Valley
 meter=中速
 composer=曲： James Kernigan, 1896
 arranger=汇编制谱： 旭日辉
+% https://www.folktunefinder.com/tunes/97318
+% https://americanenglish.state.gov/files/ae/resource_files/redriver-lyrics.pdf
+% https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/granis.net/~rlwalker/abc/red/0000
 4/4,4
 1=F
-q5,  q1  | c3  q3  q3  c3  q2  q3  | q2  q1 ( c1 - ) q5,  q1 |  c3 q1  q3  c5  q4  q3 | c2 - -  q5  q4  |
-c3  q3  q2  c1  q2 q3  |  q5  q4 ( c4 - )  q6, qb6, c5, q7, q1 c2  q3  q2  c1 - - % | q5, q1 -
+
+NoIndent % RaggedLast
+
+q5,  q1  | c3  q3  q3  c3  q2  q3  | q2  q1 ~ c1 -  q5,  q1 |  c3 q1  q3  c5  q4  q3 | c2 - -  q5  q4  |
+c3  q3  q2  c1  q2 q3  |  q5  q4 ~ c4 -  q6, qb6, c5, q7, q1 c2  q3  q2  c1 - - % | q5, q1 -
 
 %w:v1)~From this val-ley they say you are go-ing, _We will
 %w:v2)~I've been think-ing a long time my dar-ling, _Of the
@@ -15,6 +21,6 @@ c3  q3  q2  c1  q2 q3  |  q5  q4 ( c4 - )  q6, qb6, c5, q7, q1 c2  q3  q2  c1 - 
 
 L: From this val- ley they say you are go- ing, _We will miss your bright eyes and sweet smile. _For they say you are tak- ing the sun- shine,_ that has bright- ened our path- ways a while.
 L: I've been think- ing a long time my dar- ling, _Of the sweet words you ne- ver would say. _Now a- las, must my fond hopes all va- nish,_ for they say you are go- ing a- way.
-L: Do you think of the val- ley you're leav- ing, _Oh how lone- ly, how sad it will be? Do you think of the kind heart you are break- ing,_ and the pain you are caus- ing to me.
+L: Do you think of the val- ley you're leav- ing, _Oh how lone- ly and sad it will be? Do you think of the kind heart you're break- ing,_ and the pain you are caus- ing to me.
 L: I have pro- mised you, dar- lin’, that ne- ver, will a word from my lips cause you pain; And my life, it will be yours for- e- ver,_ if you on- ly will love me a- gain.
 L: (ch)_Come and sit by my side if you love me, _Do not has- ten to bid me a- dieu. _But re- mem- ber the Red Ri- ver Val- ley,_ and the one who has loved you so true.
