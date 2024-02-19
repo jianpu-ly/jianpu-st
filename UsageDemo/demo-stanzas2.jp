@@ -1,0 +1,11 @@
+KeepLength
+
+% tempo: 4=120
+4/4
+
+% Print many verses in multiple columns
+% https://lilypond.org/doc/v2.24/Documentation/notation/stanzas#printing-stanzas-at-the-end-in-multiple-columns
+
+c3 2 1 2  |  3 3 3 3   |  2 2 3 2  |  1 - - -
+
+L: Ma- ry had a lit- tle lamb, its fleece was white as snow.
