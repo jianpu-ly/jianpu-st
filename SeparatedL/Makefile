@@ -32,3 +32,6 @@ md: $(md_files)
 	@printf "\nGenerating music sheet from lilypond\n"
 	lilypond --png $<
 
+view: $(shell ls -t *.png | head -1) # ly md # No, do NOT recompile!
+	qiv -t $< &
+
