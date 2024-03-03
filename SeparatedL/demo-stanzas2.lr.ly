@@ -1,1 +1,1 @@
-demo-stanzas2.lr.fancy.ly
+demo-stanzas2.lr.simple1.ly
