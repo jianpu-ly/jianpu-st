@@ -1,0 +1,9 @@
+instrument=S
+1 2 3 4
+L: lah lah di dah
+NextPart instrument=A
+5, 6, 7, 1
+L: dum dum di dum
+NextPart instrument=T
+3, 4, 5, 6,
+L: pom pom pom pom
