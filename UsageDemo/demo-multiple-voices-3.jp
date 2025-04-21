@@ -1,9 +1,18 @@
+SeparateTimesig 1=C 4/4
+
+% instrument=Soprano
 instrument=S
 1 2 3 4
 L: lah lah di dah
-NextPart instrument=A
+
+NextPart
+% instrument=Alto
+instrument=A
 5, 6, 7, 1
 L: dum dum di dum
-NextPart instrument=T
+
+NextPart
+% instrument=Tenor
+instrument=T
 3, 4, 5, 6,
 L: pom pom pom pom
