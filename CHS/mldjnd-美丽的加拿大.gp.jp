@@ -1,4 +1,4 @@
-% export j2ly_lyric_size=30 j2ly_staff_size=24
+% export j2ly_lyric_size=30; unset j2ly_staff_size
 % and ignore the WARNING of potential layout problems
 
 NoIndent
